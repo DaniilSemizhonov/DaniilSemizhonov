@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Даниил 👋</h1>
+<h1 align="center">Привет!</h1>
 
 <p align="center">
   Пишу Telegram-ботов на Python и плагины для Obsidian на TypeScript.<br>
